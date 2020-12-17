@@ -1,0 +1,6 @@
+pandas
+streamlit
+urllib3
+numpy==1.19.0
+altair
+plotly
